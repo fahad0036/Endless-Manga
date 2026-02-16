@@ -1,0 +1,10 @@
+anime-website/
+│
+├── index.html
+├── style.css
+└── images/
+     ├── naruto.jpg
+     ├── attack_on_titan.jpg
+     ├── demon_slayer.jpg
+     ├── tokyo_ghoul.jpg
+     └── death_note.jpg
